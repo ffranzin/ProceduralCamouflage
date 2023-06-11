@@ -4,4 +4,4 @@ Pseudo-procedural system for automatic camouflage generation using Unity Shader 
 
 ![Image](ReadmeResources/image.png)
 
-[![Video](ReadmeResources/video.mp4)]
+[![Video](ReadmeResources/video.mp4)](https://drive.google.com/file/d/1Yn4gqFwL5lqmTyxhhtaM8NKQoO5qBiDr/view?usp=sharing)
