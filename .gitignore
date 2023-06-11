@@ -1,0 +1,59 @@
+# =============== #
+# Unity generated #
+# =============== #
+/[Tt]emp/
+/[Ll]ibrary/
+/[Bb]uild/
+/[Ll]ogs/
+/.vs/
+/.idea/
+# "The folder should not be put into version control, since it's per-user things there."
+# https://forum.unity.com/threads/whats-the-usersettings-directory.754436/#post-5029937
+/[Uu]serSettings/
+
+# ============== #
+# TNet generated #
+# ============== #
+/*.dat
+
+# =============== #
+# Asset Hunter generated #
+# =============== #
+[Ss]erializedBuildInfo/
+*.ahbuildinfo 
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vscode
+*.ide
+.vs/
+**/.vs/
+
+# ================= #
+# Blender generated #
+# ================= #
+*.blend[0-9]
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
